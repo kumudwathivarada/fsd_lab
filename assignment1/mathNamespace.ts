@@ -28,4 +28,4 @@ console.log("Subtraction :", MathOperations.subtract(20, 10));
 console.log("Multiplication :", MathOperations.multiply(20, 10));
 console.log("Division :", MathOperations.divide(20, 10));
 
-export {};
+export {}; 
